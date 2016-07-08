@@ -1,18 +1,55 @@
-Diseño de la aplicacíon
-=======================
+**Diseño de la aplicación**
+===========================
 
-Casos de Uso
-------------
 
-Se colocan los distintos casos de uso, tanto para la aplicación general como para
-cada módulo.
+**Casos de Uso General**
+------------------------
 
-Clases
-------
+.. figure:: _static/Diagramadecasodeuso.png
+   :align:  center
 
-Diagramas de clases y de sus distintas actividades, si fuese necesario.
 
-Diagrama de BD
+**Acceso**
+----------
+
+.. figure:: _static/Acceso.png
+   :align:  center
+
+
+**Administracion**
+------------------
+
+.. figure:: _static/Administracion.png
+   :align:  center
+
+
+**Visitantes**
 --------------
 
-Diagrama de la Base de Datos que requerirá el software.
+.. figure:: _static/Visitante.png
+   :align:  center
+
+
+**Artista**
+-----------
+
+.. figure:: _static/Artista.png
+   :align:  center
+
+
+**Capsulas informativas**
+-------------------------
+
+.. figure:: _static/Capsulas.png
+   :align:  center
+
+
+
+**Clases**
+==========
+
+
+
+**Diagrama de BD**
+==================
+

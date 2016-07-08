@@ -1,60 +1,41 @@
-"Nombre del proyecto"
-====================
-
-Sustituya con el nombre del proyecto.
+**Sistema Casa de la Cultura**
+==============================
 
 
-Breve historia del proyecto
+
+**Reseña**
+-----------
+
+El proyecto fue encargado a los estudiantes de Ingenieria en Sistemas
+de la Universidad Rafael Landivar, por medio del contacto que tuvo el 
+catedratico de Analisis y Diseño II con el encargado de proyectos de la 
+Casa de la Cultura de Quetzaltenango.  Se acepto el proyecto para que los 
+estudiantes pongan en practica todo su conocimiento y para beneficiar a 
+una entidad municipal.
+ 
+ 
+
+**Casa de la Cultura**
+-----------------------
+
+Casa de la Cultura de la municipalidad de Quetzaltenango se dedica a gestionar,
+promover y coordinar actividades culturales.
+
+
+
+**Misión del proyecto**
+-----------------------
+
+Recabar informacion y datos fiables de cualquier actividad cultural con el objetivo
+de facilitar las desiciones a nivel de gerencial.
+
+
+
+**Objetivos del proyecto**
 ---------------------------
 
-Redacte cómo es que se llega a conocer del proyecto y quienes son
-las personas involucradas en el mismo, además de una breve descripción de qué
-actividades serán las que se automatizarán con el sistema.
-
-Se debe de enfocar siempre los beneficios que traerá la aplicación a la empresa
-al momento de estar ya en funcionamiento.
-
-Debe de tomar en cuenta que el proyecto se refiere al trabajo de análisis
-del sistema, ya que la descripción del sistema se hará mas adelante.
-
-
-Empresa a la que se dirige el sistema
--------------------------------------
-
-Sustituya el título con el nombre de la empresa a la que se dirige el proyecto.
-
-Coloque una breve descripción de lo que haya comprendido sobre lo que realice
-la empresa.
-
-
-Misión del proyecto
--------------------
-
-Describa de la mejor manera la misión del proyecto o aplicación a realizar.
-
-
-Objetivos del proyecto
-----------------------
-
-Enliste los objetivos del proyecto, estos deben de ir de acuerdo a la misión
-del proyecto y cumplir con los requerimientos de SMART
-
-* Specific
-
-  * Específicos
-
-* Measurable
-
-  * Medibles
-
-* Attainable
-
-  * Alcanzable
-
-* Realistic
-
-  * Realistas
-
-* Timely
-
-  * Delimitado en un tiempo
+#. Desplegar información puntual y ordenada para facilitar el contacto con el artista.
+#. Reducir en un 50% el tiempo de respuesta a la peticion de un artista para la 
+   realización de un evento en una instalación municipal.
+#. Desplegar estadisticas ordenada y confiable sobre los eventos y artistas.
+#. Mostrar al menos 5 capsulas informativas al dia. 
