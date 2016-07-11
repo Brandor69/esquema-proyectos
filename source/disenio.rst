@@ -23,13 +23,6 @@
    :align:  center
 
 
-**Visitantes**
---------------
-
-.. figure:: _static/Visitante.png
-   :align:  center
-
-
 **Artista**
 -----------
 
@@ -42,6 +35,28 @@
 
 .. figure:: _static/Capsulas.png
    :align:  center
+
+
+**Eventos**
+-------------------------
+
+.. figure:: _static/Eventos.png
+   :align:  center
+
+
+**Calendario**
+-------------------------
+
+.. figure:: _static/Calendario.png
+   :align:  center
+
+
+**Estadisticas**
+-------------------------
+
+.. figure:: _static/Estadisticas.png
+   :align:  center
+
 
 
 

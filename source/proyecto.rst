@@ -22,36 +22,21 @@ o artistas.
 **Las actividades que buscamos cubrir con el sistema:**
 -------------------------------------------------------
 
-1. **Registrar Artista**
-++++++++++++++++++++++++
-
-Espacio que tiene el artista para poner toda su información personal y 
-de contacto.
+#. Registrar Artista: Espacio que tiene el artista para poner toda su información personal y de contacto.
+*********************
 
 
-2. **Crear Actividad**
-++++++++++++++++++++++
+#. Crear Actividad: El Artista ya registrado puede crear actividades en la agenda cultural.
+*******************
 
-El Artista ya registrado puede crear actividades en la agenda cultural.
+#. Consulta de Actividades: El publico en general podrá consultar los eventos próximos.
+***************************
 
+#. Informes: Generar informes estadisticos confiables.
+************
 
-3. **Consulta de Actividades**
-++++++++++++++++++++++++++++++
-
-El publico en general podrá consultar los eventos próximos.
-
-
-4. **Informes**
-+++++++++++++++
-
-Generar informes estadisticos confiables.
-
-
-5. **Reservaciones**
-++++++++++++++++++++
-
-Para los artistas que necesiten un espacio público pueden solicitarlo desde 
-la aplicación.
+#. Reservaciones: Para los artistas que necesiten un espacio público pueden solicitarlo desde la aplicación.
+*****************
 
 
 
@@ -75,22 +60,24 @@ administrador.
 Gestiona casi todas las operaciones del sistema, una de sus tareas es validar
 el usuario, que exista y que no sea spam, tambien puede crear mas administradores
 y observar o estudiar las estadisticas que el sistema le arroje, tambien puede
-crear nuevos eventos, cancelar perfiles por inactividad o contenido indebido.
-
-
-**Visitantes**
-+++++++++++++++
-
-Un visitante puede ver las actividades, comentar y puntuar las mismas.  Tambien
-puede consultar el directorio del artista para ponerse en contacto con el.
+crear nuevos eventos, cancelar perfiles por inactividad o contenido indebido y 
+agregar capsulas informativas.
 
 
 **Artista**
 ++++++++++++
 
-Un artista puede crear eventos en la agenda cultural pero tambien puede ser como 
-un usuario normal, que solo llegue a informarse de otras actividades, hereda esas 
-caracteristicas de los visitantes.
+Se le dara la opcion solicitar registrarse como artista para que puedan ser 
+desbloquedas todas las caracteristicas de un usuario artista. Un artista puede 
+crear eventos en la agenda cultural pero tambien puede ser como 
+un usuario normal, que solo llegue a informarse de otras actividades.
+
+
+**Eventos**
++++++++++++
+
+El objetivo de este modulo es crear eventos, sera el lugar donde se encuentren
+los eventos ya confirmados por el administrador y se podran ver por categorias. 
 
 
 **Capsulas Informativas**
@@ -98,3 +85,21 @@ caracteristicas de los visitantes.
 
 Con el objetivo de informar a los visitantes y artistas, se desplegaran pequeñas
 capsulas que contengan informacion relacionada con la cultura de Quetzaltenango.
+
+
+**Estadistica**
++++++++++++++++
+
+Espacio donde se generaran los reportes estadisticos, se podrá escoger por categorias 
+como por ejemplo los artista mas votados, los eventos mas visitados, cuatos eventos
+hubieron en cierto mes, entre otros.
+
+
+**Calendario de Eventos**
++++++++++++++++++++++++++
+
+Marcar en un calendario los dias en donde haya un evento, eventos proximos, o para 
+poder hacer una reservacion en alguna instalacion municipal, esto se realiza con el 
+objetivo de facilitar la busqueda de eventos al usuario, y para los artistas la facilidad
+de ver las fechas disponibles para coordinar un evento.
+
