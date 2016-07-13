@@ -51,14 +51,14 @@ lo cual no es optimo.
 **Misión del proyecto**
 -----------------------
 
-Recabar informacion y datos fiables de cualquier actividad cultural con el objetivo
-de facilitar las desiciones a nivel de gerencial.
+Facilitar las desiciones a nivel gerencial por medio de la recabacion de informacion y datos 
+fiables de cualquier actividad cultural para generar estadisticas fiables.
 
 
 
 **Objetivos del proyecto**
 ---------------------------
 
-#. Desplegar, en un solo clic, información de contacto, puntual y ordenada del artista.
-#. Desplegar, en un solo clic, estadisticas ordenadas y confiables sobre los eventos y artistas.
-#. Al entrar a la aplicacion desplegar por unos segundos capsulas informativas.
+#. Desplegar en un solo clic información para el contacto con el artista puntual.
+#. Desplegar en un solo clic estadisticas ordenadas y confiables sobre los eventos y artistas.
+#. Dar la bienvenida a los usuarios de la aplicacion desplegando por unos segundo una capsula informativa.

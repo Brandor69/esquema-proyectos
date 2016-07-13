@@ -19,21 +19,29 @@ se tiene contemplado agregarle pequeñas capsulas informativas acerca de
 la cultura regional.  Tambien se ha tomado en cuenta al público y se le hará 
 un espacio para que pueda dejar comentarios y/o puntuacion a las actividades 
 o artistas.
+La casa de la Cultura nos contacto para la realizacion de su proyecto ya que ellos 
+quiere fomentar la educacion cultural en el municipio, y brindarles un espacio a los 
+artistas locales para que puedan publicar su informacion de contacto para que el público
+en general pueda hacerse de sus servicios y asi apoyar al talento local.
+La casa de la Cultura tambien necesita el sistema para poder estudiar las estadisticas 
+de los artistas, de los eventos mas solicitados y los lugares mas concurridos.  Tambien 
+cabe mencionar la facilidad de contacto con la entidad municipal para hacer reservaciones
+de alguna instalacion municipal para hacer algun evento.
 
 **Las actividades que buscamos cubrir con el sistema:**
 -------------------------------------------------------
 
-**1. Registrar Artista:** Espacio que tiene el artista para poner toda su información personal y de contacto.
+**1. Registrar un Artista:** Espacio que tiene el artista para poner toda su información personal y de contacto.
 
-**2. Crear Actividad:** El Artista ya registrado puede crear actividades en la agenda cultural.
+**2. Crear una Actividad:** El Artista ya registrado puede crear actividades en la agenda cultural.
 
-**3. Consulta de Actividades:** El publico en general podrá consultar los eventos próximos.
-
-
-**4. Informes:** Generar informes estadisticos confiables.
+**3. Consultar las Actividades:** El publico en general podrá consultar los eventos próximos.
 
 
-**5. Reservaciones:** Para los artistas que necesiten un espacio público pueden solicitarlo desde la aplicación.
+**4. Generar Informes:** Generar informes estadisticos confiables.
+
+
+**5. Realizar una Reservacion:** Para los artistas que necesiten un espacio público pueden solicitarlo desde la aplicación.
 
 
 

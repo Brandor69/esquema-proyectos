@@ -59,12 +59,8 @@
 
 
 
-
-**Clases**
-==========
-
-
-
 **Diagrama de BD**
 ==================
 
+.. figure:: _static/BD.png
+   :align:  center
