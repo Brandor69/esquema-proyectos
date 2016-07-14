@@ -60,7 +60,7 @@ Tabla de tiempos y costos
 
 ==============  ========================
 Actividades      Duracion (dias habiles)
-==============  ========================
+--------------  ------------------------
 
 Comunicacion	 		5
 
@@ -71,7 +71,7 @@ Modelado				15
 Construccion			40
 
 Despliegue				20
-
+==============  ======================== 	
 
 
 Condiciones
